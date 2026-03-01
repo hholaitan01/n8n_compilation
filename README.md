@@ -1,5 +1,5 @@
-# n8n-free-templates
-# 🚀 200+ Ready-to-Import n8n Workflows  
+# n8n_compilation
+# 🚀 Ready-to-Import n8n Workflows  
 
 _AI • Vector DB • LLM • DevOps • Finance • IoT • and more_
 
@@ -29,22 +29,10 @@ Free n8n templates to download
 
 ---
 
-## 📂 Folder Layout
-
-```
-<category>/
-  *.json         # workflow files
-  README.md      # tech mix per file
-
-MASTER_README.md # ← you are here
-```
-
----
-
 ## 🚀 Quick Start
 
 ```bash
-git clone <https://github.com/wassupjay/n8n-free-templates.git>
+git clone <https://github.com/hholaitan01/n8n_compilation.git>
 # then in n8n:
 # Settings ▸ Import Workflows ▸ select any JSON
 # Open each node ▸ Credentials ▸ choose or create your account
@@ -61,4 +49,5 @@ Request new templates, improve prompts, or add integrations.
 Collabs welcome!
 ---
 
-_Made with ❤️ by Jay — “Automate everything, then automate the automation.”_
+_Made with ❤️ by Ola — “Automate everything, then automate the automation.”_
+
